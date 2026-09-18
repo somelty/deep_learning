@@ -1,3 +1,3 @@
-# algorithm_zuo
+# deep_learning
 
-record the learning experience and process of deep learning
+record learning experience and process of deep learning
